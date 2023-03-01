@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521838807634",
+    "project_id": "pushnotification-a968e",
+    "storage_bucket": "pushnotification-a968e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521838807634:android:c2681d1b512410540aad8b",
+        "android_client_info": {
+          "package_name": "com.darshanabaruah.Push_Notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521838807634-266bc9tg4t0do96k9d31mm1upnahipbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshanabaruah.Push_Notification",
+            "certificate_hash": "5bb20c0482af6f396ab10dc9c2d08edc556a363b"
+          }
+        },
+        {
+          "client_id": "521838807634-btom945gmlk7ffuladnj42s2tb4qqljd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshanabaruah.Push_Notification",
+            "certificate_hash": "78ea73d209d30f8682c3c9c1008be75ff4373597"
+          }
+        },
+        {
+          "client_id": "521838807634-megc0ngaki371o9te46f6jj2qhstbhaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGKwsXWPcdGgA1oHSyUuhDcy3kvKzXQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521838807634-megc0ngaki371o9te46f6jj2qhstbhaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
